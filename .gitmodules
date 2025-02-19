@@ -1,0 +1,12 @@
+[submodule "api-comedero"]
+	path = api-comedero
+	url = https://github.com/nicocolo44/API-COMDERo
+[submodule "frontend-comedero"]
+	path = frontend-comedero
+	url = https://github.com/nicocolo44/FRONTEND-COMEDERO.git
+[submodule "comedero-de-mascotas"]
+	path = comedero-de-mascotas
+	url = https://github.com/nicocolo44/Comedero_de_mascotas.git
+[submodule "esp-comedero"]
+	path = esp-comedero
+	url = https://github.com/nicocolo44/esp-comedero.git
